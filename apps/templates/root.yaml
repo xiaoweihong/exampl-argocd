@@ -10,7 +10,7 @@ spec:
   project: default
   source:
     path: apps/
-    repoURL: https://github.com/xiaoweihong/example-argocd.git
+    repoURL: https://git.hongxiaowei.com/xiaowei/example-argocd.git
     targetRevision: HEAD
   syncPolicy:
     automated:
